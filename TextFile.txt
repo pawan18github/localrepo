@@ -1,1 +1,3 @@
-This is new text file created under Local Repository and git init command executed to update this as Git Repository
+This is new text file created under Local Repository and git init command executed to update this as Git Repository.
+Now lets update this line and push using 'git push' because last push was done using command 
+git push -u origin main 
